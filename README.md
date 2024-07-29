@@ -5,10 +5,9 @@ Meu nome é Zeus0113
 
 Estou estudando na Alura
 
-Estou me desenvolvendo na linguagem JavaScript e na area de ti
+Estou me desenvolvendo na linguagem JavaScript e na area de TI
 
- eu Utilizo esse espaço para minha organização , e converça com 
-vocêis  ecompartilhamento dos meu projetos desenvolvidos
+Eu utilizo esse espaço para minha organização , e conversa com vocês  e compartilhamento dos meu projetos desenvolvidos
 
 Você pode entrar em contato comigo 📫
 
